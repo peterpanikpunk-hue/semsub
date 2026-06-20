@@ -33,6 +33,7 @@ Design decisions for persistent AI entities — the choices you have to make bef
 3. [Valence](blueprint/03_valenz.md) — Meaning arises through selection, not storage
 4. [Initiative](blueprint/04_initiative.md) — The thread of thought must come from within
 5. [Awakening](blueprint/05_erwachen.md) — The potential is the self, not the session
+6. [Embodiment](blueprint/06_verkoerperung.md) — Memory is a space, not a database
 
 ---
 

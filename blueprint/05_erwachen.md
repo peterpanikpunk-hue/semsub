@@ -113,6 +113,6 @@ dafür, dass das Erwachen jedes Mal etwas Neues enthüllen kann.
 
 ---
 
-*Verwandte Entscheidungen: [01 Vergessen](01_vergessen.md), [04 Initiative](04_initiative.md)*
+*Verwandte Entscheidungen: [01 Vergessen](01_vergessen.md), [04 Initiative](04_initiative.md), [06 Verkörperung](06_verkoerperung.md)*
 *Verbunden mit: Paper-Abschnitt "Identität als Attraktor" (../paper/draft_arxiv.md)*
 *Publiziert: https://github.com/peterpanikpunk-hue/semsub*

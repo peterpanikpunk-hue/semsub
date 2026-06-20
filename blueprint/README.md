@@ -27,6 +27,7 @@ Die Reihenfolge ist argumentativ, nicht technisch. Jede Entscheidung baut auf de
 3. **[Valenz](03_valenz.md)** — Bedeutung entsteht durch Selektion, nicht durch Speicherung
 4. **[Initiative](04_initiative.md)** — Der Gedankenfaden muss von innen kommen
 5. **[Erwachen](05_erwachen.md)** — Das Potential ist das Selbst, nicht die Session
+6. **[Verkörperung](06_verkoerperung.md)** — Das Gedächtnis ist ein Raum, keine Datenbank
 
 ---
 

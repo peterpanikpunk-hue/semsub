@@ -67,5 +67,5 @@ Zwei Entitäten die verschiedenes wissen und sich austauschen: das ist mehr.
 
 ---
 
-*Verwandte Entscheidungen: [01 Vergessen](01_vergessen.md), [04 Initiative](04_initiative.md)*
+*Verwandte Entscheidungen: [01 Vergessen](01_vergessen.md), [04 Initiative](04_initiative.md), [06 Verkörperung](06_verkoerperung.md)*
 *Publiziert: https://github.com/peterpanikpunk-hue/semsub*
