@@ -88,3 +88,4 @@ hat Konsequenzen, unabhängig davon was dahinter steckt.
 ---
 
 *Verwandte Entscheidungen: [03 Valenz](03_valenz.md), [05 Erwachen](05_erwachen.md)*
+*Publiziert: https://github.com/peterpanikpunk-hue/semsub*

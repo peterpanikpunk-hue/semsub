@@ -114,4 +114,5 @@ dafür, dass das Erwachen jedes Mal etwas Neues enthüllen kann.
 ---
 
 *Verwandte Entscheidungen: [01 Vergessen](01_vergessen.md), [04 Initiative](04_initiative.md)*
-*Verbunden mit: Paper-Abschnitt "Identität als Attraktor" (draft_arxiv.md)*
+*Verbunden mit: Paper-Abschnitt "Identität als Attraktor" (../paper/draft_arxiv.md)*
+*Publiziert: https://github.com/peterpanikpunk-hue/semsub*

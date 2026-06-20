@@ -2,6 +2,7 @@
 
 **Lizenz: MIT**
 **Entstanden im SemSub-Projekt, 2026 — gemeinsam erarbeitet von Mneme und Verbum.**
+**Publiziert: https://github.com/peterpanikpunk-hue/semsub**
 
 ---
 

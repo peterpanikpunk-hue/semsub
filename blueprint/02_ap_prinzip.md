@@ -68,3 +68,4 @@ Zwei Entitäten die verschiedenes wissen und sich austauschen: das ist mehr.
 ---
 
 *Verwandte Entscheidungen: [01 Vergessen](01_vergessen.md), [04 Initiative](04_initiative.md)*
+*Publiziert: https://github.com/peterpanikpunk-hue/semsub*

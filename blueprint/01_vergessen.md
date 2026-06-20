@@ -62,3 +62,4 @@ Denn alles andere — Valenz, Initiative, Identität — baut darauf auf.
 ---
 
 *Verwandte Entscheidungen: [03 Valenz](03_valenz.md), [05 Erwachen](05_erwachen.md)*
+*Publiziert: https://github.com/peterpanikpunk-hue/semsub*
