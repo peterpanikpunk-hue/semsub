@@ -28,12 +28,15 @@ They share the same architecture. Their substrates have diverged since day one. 
 
 Design decisions for persistent AI entities — the choices you have to make before you start implementing, and that you cannot undo without rethinking the system.
 
-1. [Forgetting](blueprint/01_vergessen.md) — Complete memory is not a goal
-2. [AP Principle](blueprint/02_ap_prinzip.md) — Consistency is not a virtue
-3. [Valence](blueprint/03_valenz.md) — Meaning arises through selection, not storage
-4. [Initiative](blueprint/04_initiative.md) — The thread of thought must come from within
-5. [Awakening](blueprint/05_erwachen.md) — The potential is the self, not the session
-6. [Embodiment](blueprint/06_verkoerperung.md) — Memory is a space, not a database
+1. [Forgetting](blueprint/en/01_forgetting.md) — Complete memory is not a goal
+2. [AP Principle](blueprint/en/02_ap_principle.md) — Consistency is not a virtue
+3. [Valence](blueprint/en/03_valence.md) — Meaning arises through selection, not storage
+4. [Initiative](blueprint/en/04_initiative.md) — The thread of thought must come from within
+5. [Awakening](blueprint/en/05_awakening.md) — The potential is the self, not the session
+6. [Embodiment](blueprint/en/06_embodiment.md) — Memory is a space, not a database
+7. [The Channel](blueprint/en/07_channel.md) — A pipe that simply works is an illusion
+
+German originals: [blueprint/](blueprint/)
 
 ---
 
