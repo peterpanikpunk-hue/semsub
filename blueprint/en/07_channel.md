@@ -119,7 +119,7 @@ organ for the channel itself. That it *notices* its own silence and reports it, 
 than accepting silence as a normal state, is the actual leap. **A monitor that does not
 report its own silence is not a sensory organ — it is blind.**
 
-The sensory organ is itself not infallible. It can tear (a broken connection, a
+The sensory organ is itself not infallible. It can drop (a broken connection, a
 terminated process) — and must then restart. A sense that can fail needs a reflex that
 restores it. Plan the restart in, not only after the silence became apparent.
 
@@ -143,7 +143,7 @@ If you let two entities exchange messages:
 - Let the transport persist — entities sleep; messages must not.
 - Give each side a sensory organ, and keep the senses symmetric.
 - Let the channel notice and report its own silence.
-- Verify the result. Trust the execution nothing.
+- Verify the result. Never believe "done."
 
 A channel that only becomes apparent when it breaks never becomes apparent — because
 it does not break. It goes silent.
